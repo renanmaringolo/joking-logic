@@ -1,4 +1,4 @@
-# README
+# Informação
 
 Este repositório foi criado para propor uma forma de continuar aprimorando minha lógica em programação.
 
